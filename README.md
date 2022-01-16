@@ -2,7 +2,7 @@
 
 Atualmente não trabalho na área, mas estou estudando para ser um desenvolvedor web full stack :smiley:
 
-## Tecnologias e Ferramentas:
+### Tecnologias e Ferramentas:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width=40px heigth=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" width=40px heigth=40px />
