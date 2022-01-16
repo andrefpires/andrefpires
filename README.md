@@ -1,6 +1,6 @@
-## Olá, me chamo André!
+## Olá, me chamo André! :smiley:
 
-Atualmente não trabalho na área, mas estou estudando para ser um desenvolvedor web full stack :smiley:
+Atualmente não trabalho na área, mas estou estudando para ser um desenvolvedor web full stack.
 
 ### Tecnologias e Ferramentas:
 <div>
