@@ -14,16 +14,16 @@ Atualmente não trabalho na área, mas estou estudando para ser um desenvolvedor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width=40px heigth=40px />
  </div>
 
-
-<div align="center">
-<a href="https://github.com/andrefpires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefpires&layout=compact&langs_count=7&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefpires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</div>
-
 ### Contatos:
 <div>
   <a href="https://www.linkedin.com/in/andreferreirap/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
- </div>
+</div>
+
+##
+<div align="center">
+<a href="https://github.com/andrefpires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefpires&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefpires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>
