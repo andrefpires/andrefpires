@@ -2,7 +2,7 @@
 
 Atualmente não trabalho na área, mas estou estudando para ser um desenvolvedor web full stack :smiley:
 
-### Tecnologias e Ferramentas:
+## Tecnologias e Ferramentas:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" width=40px heigth=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" width=40px heigth=40px />
@@ -14,7 +14,7 @@ Atualmente não trabalho na área, mas estou estudando para ser um desenvolvedor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width=40px heigth=40px />
  </div>
 
-#### Contatos:
+### Contatos:
 <div>
   <a href="https://www.linkedin.com/in/andreferreirap/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
