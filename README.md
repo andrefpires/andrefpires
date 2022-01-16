@@ -15,7 +15,7 @@ Atualmente não trabalho na área, mas estou estudando para ser um desenvolvedor
 
 #### Contatos:
 <div>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
-    <img src="https://www.linkedin.com/in/andreferreirap/">
+  <a href="https://www.linkedin.com/in/andreferreirap/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
  </div>
